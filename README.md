@@ -3,9 +3,11 @@
 ##### 1. C언어
   - 참고 강의
     - youtube 나도코딩
-
+    - https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
+  
   - 참고 서적
-    - 혼자 공부하는 C 언어 (한빛미디어)
+    - 혼자 공부하는 C 언어 (한빛미디어
+    - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241868&orderClick=LAG&Kc=
 
 
 ##### 2. python
@@ -22,3 +24,4 @@
 
   - 참고 서적
     - Do it! 자료구조와 함께 배우는 알고리즘 입문: C 언어 편 (이지스퍼블리싱)
+    - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188612130&orderClick=LAG&Kc=
