@@ -6,7 +6,7 @@
     - https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
   
   - 참고 서적
-    - 혼자 공부하는 C 언어 (한빛미디어
+    - 혼자 공부하는 C 언어 (한빛미디어)
     - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241868&orderClick=LAG&Kc=
 
 
