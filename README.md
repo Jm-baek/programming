@@ -1,6 +1,6 @@
 #### 본 레포지토리는 프로그래밍 관련 공부내용을 저장해놓았습니다.
 
-##### 1. C언어
+##### 1. C Programming
   - 참고 강의
     - youtube 나도코딩
       - https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
