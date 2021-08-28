@@ -14,6 +14,7 @@
     - 혼자 공부하는 C 언어 (한빛미디어)
     - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241868&orderClick=LAG&Kc=
 
+<br/>
 
 ##### 2. python
   - 참고 강의
@@ -22,6 +23,7 @@
   - 참고 서적
 
 
+<br/>
 
 ##### 3. 자료구조(Data Structure)
   - 참고 강의
