@@ -15,16 +15,13 @@
     - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241868&orderClick=LAG&Kc=
 
 <br/>
-
 ##### 2. python
   - 참고 강의
     - 인프런: 우리를 위한 프로그래밍 : 파이썬 중급(Level 2) 
     
   - 참고 서적
 
-
 <br/>
-
 ##### 3. 자료구조(Data Structure)
   - 참고 강의
 
