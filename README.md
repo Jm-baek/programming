@@ -1,6 +1,7 @@
-#### 본 레포지토리는 프로그래밍 관련 공부내용을 저장해놓았습니다.
+#### 본 레포지토리는 프로그래밍 관련 공부내용을 요약 했습니다.
 
-##### 1. C Programming
+### 프로그래밍(Programming)
+##### 1. C
   - 참고 강의
     - youtube 나도코딩
       - https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw
@@ -22,10 +23,17 @@
   - 참고 서적 <br/>
 
 
-##### 3. 자료구조(Data Structure)
+### 자료구조(Data Structure)
+##### 1. C
   - 참고 강의
 
 
   - 참고 서적
     - Do it! 자료구조와 함께 배우는 알고리즘 입문: C 언어 편 (이지스퍼블리싱)
     - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188612130&orderClick=LAG&Kc=
+
+##### 2. python
+
+
+
+
