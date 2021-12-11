@@ -11,6 +11,7 @@ from tensorflow.keras import models, Dense
 ### 2. Functional API를 이용하는 방법
   - 복잡한 모델을 생성할 때의 한계를 극복할 수 있음.
   - 다중 입력(multi_input)과 다중 출력(multi_ouput) 등 정의 가능.
+
 <pre><code>
 from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras.layers import Model
@@ -20,10 +21,11 @@ x = Dense(4, activation='relu')(x)
 x = Dense(1, activation='relu')(x)
 model = model(inputs, x)
 </code></pre>
+
 ### 3. Model subclassing API를 이용하는 방법
 사용자가 가장 자유롭게 모델을 구축할 수 있는 방법이다.
 
-<code><pre>
+<pre><code>
 class custom(tf.keras.Model):
   def __init__(self):
       super(custom, self).__init__()
