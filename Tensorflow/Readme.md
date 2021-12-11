@@ -35,7 +35,7 @@ class custom(tf.keras.Model):
   def call(self, inputs):
     x = self.block_1(input)
     return self.block_2(x)
-  </code></pre>
+ </code></pre>
 ------------------------------------- 
 Functional API와 Model subclass API 작성 방법에 대해 작성하며 가끔 tensorflow 유용한 메서드를 적어놓을 예정이다.
 
