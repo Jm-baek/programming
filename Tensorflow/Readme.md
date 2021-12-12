@@ -35,8 +35,22 @@ class custom(tf.keras.Model):
   def call(self, inputs):
     x = self.block_1(input)
     return self.block_2(x)
+    
+  @tf.function
+  def train_step(self, data):
+      inputs, labels = inputs
+      with tf.GradientTape() as tape:
+  
 ```
 ------------------------------------- 
+
+call과 train_step 차이가 있다.  
+아래 링크를 보고 확인할 수 있고 조금 더 공부해서 적겠다.  
+https://stackoverflow.com/questions/69315586/when-are-model-call-and-train-step-called
+
+
+
+
 
 tf.io.gfile.glob - 주어진 패턴과 일치하는 파일 목록을 반환합니다.  
 
